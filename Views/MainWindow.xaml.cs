@@ -24,5 +24,9 @@ namespace XPSPrintPractice.Views
         {
             InitializeComponent();
         }
+        private void Window_Closed(object sender, EventArgs e)
+        {
+
+        }
     }
 }
